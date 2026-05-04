@@ -289,7 +289,8 @@ export function LiquidMetalButton({ label = "Get Started", onClick, viewMode = "
               />
             </div>
           </div>
-
+    <a
+            href="https://tomaslonnblad.github.io/tl33555555555">
           <button
             ref={buttonRef}
             onClick={handleClick}
@@ -333,6 +334,7 @@ export function LiquidMetalButton({ label = "Get Started", onClick, viewMode = "
               />
             ))}
           </button>
+    </a>
         </div>
       </div>
     </div>
